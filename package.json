@@ -1,0 +1,15 @@
+{
+  "name": "kim-yalan-soyluyor-relay-server",
+  "version": "1.0.0",
+  "description": "Kim Yalan Söylüyor? oyunu için gerçek zamanlı WebSocket lobi ve eşleşme sunucusu",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
